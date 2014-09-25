@@ -22,7 +22,7 @@ class Ball:
         canvas.move(self.image, self.v_x,self.v_y)
         canvas.update()
      
-h = 400
+h = 600
 w = 500
 Window = Tk()
  
